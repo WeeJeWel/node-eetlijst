@@ -1,0 +1,26 @@
+{
+  "name": "eetlijst",
+  "version": "1.0.0",
+  "description": "Eetlijst.nl client written in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeeJeWel/node-eetlijst.git"
+  },
+  "keywords": [
+    "eetlijst"
+  ],
+  "author": "Emile Nijssen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeeJeWel/node-eetlijst/issues"
+  },
+  "homepage": "https://github.com/WeeJeWel/node-eetlijst#readme",
+  "dependencies": {
+    "axios": "^0.15.2",
+    "cheerio": "^0.22.0"
+  }
+}
